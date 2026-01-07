@@ -1,18 +1,15 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Personal finance management has become one of the most critical challenges in today’s digital society due to rapid economic changes, increased use of digital payment platforms, and evolving consumption patterns. Individuals now perform a large number of financial transactions daily through online banking, UPI payments, cards, and digital wallets. However, traditional personal finance practices rely heavily on manual expense tracking, basic spreadsheets, or static mobile applications. These methods are often inefficient, error-prone, and fail to provide meaningful insights into spending behavior. As a result, users struggle with uncontrolled expenses, poor budgeting, inadequate savings, and lack of financial awareness. To address these challenges, modern financial management systems are increasingly shifting toward automation, data analytics, and artificial intelligence.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Managing money effectively remains one of the most common yet complex challenges faced by individuals in the modern world. Many people struggle to maintain a balance between income and expenses due to limited financial literacy, irregular spending habits, and the absence of intelligent analytical tools. Traditional money management methods—such as maintaining spreadsheets, using basic expense tracker applications, or manually setting budgets—fail to provide dynamic insights or personalized recommendations based on individual financial behavior.
+
+The primary issue lies in the lack of awareness of personal financial trends. Most individuals are unable to clearly identify overspending categories, recognize wasteful or suspicious expenditures, or set realistic savings goals that align with their lifestyle. Additionally, manual transaction entry and static data visualization often discourage users from maintaining consistency in financial tracking. There is also a significant lack of integration between budgeting, predictive analysis, and goal-oriented savings frameworks in existing financial tools.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+To improve usability and clarity, Cash Catalyst presents financial information through interactive dashboards and visual summaries. Charts, graphs, and progress indicators help users easily interpret income distribution, expense patterns, and savings performance. Real-time alerts notify users of unusual spending activity or budget limit breaches, enabling timely corrective action. This immediate feedback not only enhances the functionality of the application but also serves as a financial education tool, helping users develop disciplined money management habits.
+
+Security and reliability are key considerations in the design of Cash Catalyst. The application incorporates secure authentication mechanisms such as OTP-based login and stores financial data in a structured and secure database. Automated processing minimizes manual effort while ensuring data accuracy and consistency. The system is designed to be scalable and adaptable, allowing future integration with banking APIs, investment planning modules, and advanced predictive analytics.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
@@ -27,32 +24,31 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img src="https://img.sanishtech.com/u/1c4c5cabf461b31a54f360fc34dc78ff.png" alt="Screenshot 2026-01-07 082323" width="634" height="445" loading="lazy" style="max-width:100%;height:auto;">
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img src="https://img.sanishtech.com/u/4c4648a4ae68b7a98bfb68a1f8ad7102.png" alt="Screenshot 2026-01-07 082246" width="501" height="436" loading="lazy" style="max-width:100%;height:auto;">
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2
+<img src="https://img.sanishtech.com/u/8deb64ddeb5216e4430bed65a9e418a7.png" alt="Screenshot 2026-01-07 082232" width="427" height="356" loading="lazy" style="max-width:100%;height:auto;">
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+In the future, Cash Catalyst can also support financial literacy modules, offering tips, learning resources, and personalized advice to educate users about smart money habits. Integration with cloud services would enable cross-device access, data backup, and scalability. These enhancements would make Cash Catalyst more intelligent, secure, and adaptable, positioning it as a powerful next-generation AI-driven personal finance management system.
+
+
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+
+[1]  A. K. Jain, P. Gupta, and S. Verma, “AI-driven personal finance management using predictive analytics,” IEEE Access, vol. 8, pp. 156743–156754, 2020.
+[2]  R. Mehta and P. Sharma, “Predictive budgeting and expenditure forecasting using machine learning models,” International Journal of Computer Applications (IJCA), vol. 182, no. 42, pp. 10–17, 2019.
+[3]  S. Banerjee, D. Mukherjee, and A. Rao, “Anomaly detection in financial transactions using deep learning,” Journal of Financial Innovation and Technology, Elsevier, vol. 6, no. 3, pp. 45–58, 2021.
 
 
 
